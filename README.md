@@ -1,139 +1,95 @@
-<br clear="both">
-
 <div align="center">
   <img height="400" width="2000" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
 </div>
 
-
-<h1 align="center">Hi 👋, I'm Ayoub Anhal</h1>
-
-<h2 align="center">Future Big Data | AI Engineer</h2>
-
-###
-
-<img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950"  />
-
-###
-
-<h3 align="left">• 🌱 I'm currently learning : Java for Data Analysis, Big Data Tools, Data Science Training, and Advanced AI Algorithms<br>• 💬 Ask me about : Machine Learning, Deep Learning, Business Intelligence (BI)<br>• 📫 How to reach me : <a href="mailto:ayoubanhal01@gmail.com">ayoubanhal01@gmail.com</a><br>• ⚡ Fun fact : I am Funny</h3>
-
-###
-<br clear="both">
-<h2 align="center">🌐 Réseaux sociaux</h2>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayoub-anhal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ayoubanhal657" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/Anhal_Ayoub" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/Ayoub_Anhal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+
+# 👋 Ayoub Anhal | Big Data & AI Engineer
+
 </div>
 
-###
+##  Professional Summary
 
-<h2 align="left">💻 Languages and Tools :</h2>
+Passionné de Big Data, Intelligence Artificielle et Data Science, je suis un ingénieur technologique en constante évolution, spécialisé dans l'exploration et l'innovation technologique. Mon parcours est guidé par une curiosité insatiable pour les technologies émergentes et une volonté de repousser les limites de l'analyse de données et de l'intelligence artificielle.
 
-###
+##  Technical Skills
 
-<h3 align="center">• 🧑‍💻 Programming Languages</h3>
+### 💻 Programming Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-###
+### 🤖 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-</div>
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-###
+### 🧰 Big Data & DevOps
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-<h3 align="center">• 🤖 AI/ML/DL</h3>
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###
+### 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
-</div>
+## 📈 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoub-anhal&show_icons=true&theme=radical" alt="Ayoub Anhal GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-anhal&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</p>
 
-<h3 align="center">• 📂 Database</h3>
+##  Currently Learning
 
-###
+- Advanced Java for Data Analysis
+- Cutting-edge Big Data Tools
+- Deep Learning and Advanced AI Algorithms
+- Cloud Computing and Distributed Systems
+- Advanced Machine Learning Techniques
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
-</div>
+## 📫 Connect With Me
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-anhal/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ayoubanhal657)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Anhal_Ayoub)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ayoub_Anhal)
 
-<h3 align="center">• 👁️ Front-End</h3>
+## 📧 Contact
 
-###
+📫 **Email**: ayoubanhal01@gmail.com
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayoub-anhal.ayoub-anhal" alt="Visitor Badge"/>
+</p>
 
-<h3 align="center">• 📊 BIG DATA Tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="apachekafka logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
-</div>
-
-###
-
-<h2 align="left">🔥   My Stats :</h2>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoub-anhal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub-anhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayoub-anhal.ayoub-anhal&"  />
-</div>
-
-###
+*Dernière mise à jour : Mars 2024*
