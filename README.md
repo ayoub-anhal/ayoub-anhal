@@ -10,7 +10,7 @@
 
 ##  Professional Summary
 
-Passionné de Big Data, Intelligence Artificielle et Data Science, je suis un ingénieur technologique en constante évolution, spécialisé dans l'exploration et l'innovation technologique. Mon parcours est guidé par une curiosité insatiable pour les technologies émergentes et une volonté de repousser les limites de l'analyse de données et de l'intelligence artificielle.
+Passionate about Big Data, Artificial Intelligence, and Data Science, I am a technology engineer in constant evolution, specialized in exploration and technological innovation. My journey is guided by an insatiable curiosity for emerging technologies and a desire to push the boundaries of data analysis and artificial intelligence.
 
 ##  Technical Skills
 
