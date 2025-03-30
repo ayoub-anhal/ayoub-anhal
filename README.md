@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="400" width="2000" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
+  <img src="https://api.sofascore.app/api/v1/team/4778/image" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl">
+  <img src="https://api.sofascore.app/api/v1/team/4788/image" width="68" height="68" alt="Palestine" class="Img dvsmxM" style="vertical-align: top;">
 </div>
 
 <div align="center">
