@@ -63,7 +63,7 @@ Passionate about Big Data, Artificial Intelligence, and Data Science, I am a tec
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoub-anhal&show_icons=true&theme=radical" alt="Ayoub Anhal GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-anhal&theme=radical&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-anhal&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-anhal&layout=compact&theme=radical" />
 </p>
 
 
