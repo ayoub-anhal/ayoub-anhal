@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/ayoub-anhal/ayoub-anhal/blob/main/image_maroc.png" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl">
-  <img src="https://api.sofascore.app/api/v1/team/4788/image" width="68" height="68" alt="Palestine" class="Img dvsmxM" style="vertical-align: top;">
+  <img src="image_maroc.png" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl">
+  <img src="image_palestine.png" width="68" height="68" alt="Palestine" class="Img dvsmxM" style="vertical-align: top;">
 </div>
 
 <div align="center">
