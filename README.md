@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://flagcdn.com/w320/ma.png" width="100" height="68" alt="Morocco" class="sc-eDPEul eEgeRl">
-  <img src="https://flagcdn.com/w320/ps.png" width="100" height="68" alt="Palestine" class="Img dvsmxM" style="vertical-align: top;">
+  <img src="https://api.sofascore.app/api/v1/team/4778/image" width="68" height="68" alt="Morocco" class="sc-eDPEul eEgeRl">
+  <img src="https://api.sofascore.app/api/v1/team/4788/image" width="68" height="68" alt="Palestine" class="Img dvsmxM" style="vertical-align: top;">
 </div>
 
 <div align="center">
